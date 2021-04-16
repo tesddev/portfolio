@@ -1,0 +1,105 @@
+
+.wrapper{
+    background-color: rgb(235, 230, 230);
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.wrapper-content{
+    padding: 3rem 9rem;
+    font-family: sans-serif;
+}
+.header , .PA , .address{
+    font-family: 'Times New Roman';
+}
+.name{
+    font-size: 40px;
+    margin-bottom: 1rem;
+}
+.name, .address{
+    text-align: center;
+    font-weight: bold;
+}
+.address{
+    margin-bottom: 1rem;
+}
+.PA{
+    display: flex;
+    font-weight: bold;
+}
+.A{
+    padding-left: 21.5rem;
+    padding-right: 0rem;
+}
+hr{
+    color: rgb(65, 65, 156);
+}
+h4{
+    text-align: center;
+    font-size: 25px;
+    background-color: green;
+    color: white;
+}
+h5{
+    font-size: 20px;
+}
+.gm{
+    display: flex;
+}
+.m{
+    padding-left: 20rem;
+    padding-right: 0rem;
+}
+.SD{
+    display: flex;
+    margin-top: 1rem;
+}
+.dob{
+    padding-left: 16.5rem;
+    padding-right: 0rem;
+}
+.ExpAndDate{
+    display: flex;
+    margin-top: 1rem;
+}
+.date{
+    padding-left: 23rem;
+}
+.ExpAndDate1{
+    display: flex;
+    margin-top: 1rem;
+}
+.date1{
+    padding-left: 19rem;
+}
+.ExpAndDate2{
+    display: flex;
+    margin-top: 1rem;
+}
+.date2{
+    padding-left: 11rem;
+}
+.ExpAndDate3{
+    display: flex;
+    margin-top: 1rem;
+}
+.date3{
+    padding-left:18rem;
+}
+.ExpAndDate4{
+    display: flex;
+    margin-top: 1rem;
+}
+.date4{
+    padding-left: 27rem;
+}
+.ExpAndDate5{
+    display: flex;
+    margin-top: 1rem;
+}
+.date5{
+    padding-left: 28rem;
+}
+.a{
+    color: blue;
+}
