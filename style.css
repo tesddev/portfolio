@@ -4,6 +4,7 @@
     width: 80%;
     margin-left: 10%;
     margin-right: 10%;
+    font-size: 16px;
 }
 .wrapper-content{
     padding: 3rem 9rem;
@@ -102,4 +103,98 @@ h5{
 }
 .a{
     color: blue;
+}
+@media screen and (max-width: 600px){
+    .wrapper{
+        width: 100%;
+        margin-left: 0rem;
+    }
+    .wrapper-content{
+        padding: 1rem 2rem;
+    }
+    .name{
+        font-size: 25px;
+        margin-bottom: .3rem;
+    }
+    .address{
+        margin-bottom: .2rem;
+    }
+    .PA{
+    
+        display: inline-block;
+    
+    }
+    .A{
+        padding-left: 0rem;
+    }
+    hr{
+        margin-bottom: -1rem;
+    }
+    h4{
+        font-size: 18px;
+    }
+    h5{
+        font-size: 17px;
+    }
+    .gm{
+        display: inline-block;
+    }
+    .m{
+        padding-left: 0rem;
+        margin-top: .2rem;
+    }
+    .SD{
+        display: inline-block;
+        margin-top: .2rem;
+    }
+    .dob{
+        padding-left: 0rem;
+        margin-top: .2rem;
+    }
+    .ExpAndDate{
+        display: inline-block;
+        margin-top: .2rem;
+    }
+    .date{
+        padding-left: 0rem;
+        margin-top: .2rem;
+    }
+    .ExpAndDate1{
+        display: inline-block;
+        margin-top: .4rem;
+    }
+    .date1{
+        padding-left: 0rem;
+        margin-top: .2rem;
+    }
+    .ExpAndDate2{
+        display: inline-block;
+        margin-top: .4rem;
+    }
+    .date2{
+        padding-left: 0rem;
+        margin-top: .2rem;
+    }
+    .ExpAndDate3{
+        display: inline-block;
+        margin-top: .4rem;
+    }
+    .date3{
+        padding-left: 0rem;
+        margin-top: .2rem;
+    }.ExpAndDate4{
+        display: inline-block;
+        margin-top: .4rem;
+    }
+    .date4{
+        padding-left: 0rem;
+        margin-top: .2rem;
+    }.ExpAndDate5{
+        display: inline-block;
+        margin-top: .4rem;
+    }
+    .date5{
+        padding-left: 0rem;
+        margin-top: .2rem;
+    }
 }
